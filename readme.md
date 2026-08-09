@@ -52,11 +52,15 @@ Snitch is my biggest project – a real‑time social platform with feeds, group
 
 ### [MovieHub](https://github.com/MojolaoluwaOlanusi/MovieHub) – TMDB Movie Explorer
 
+![MovieHub](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+
 A sleek movie browsing app that consumes the TMDB API. Infinite scroll, search, and detail pages.
 
 - **Stack:** React, TMDB API, TailwindCSS
 
 ### [PERN Todo](https://github.com/MojolaoluwaOlanusi/pern-todo-app) – Full‑Stack Task Manager
+
+![PERN TODO](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 
 A classic but polished todo app built with the PERN stack (PostgreSQL, Express, React, Node.js). Complete with user auth and drag‑and‑drop.
 

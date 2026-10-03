@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;16+and+shipping+code;Building+Snitch+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;16+and+shipping;Creative+Builder" alt="typing-svg" />
   </a>
 </h1>
 
@@ -48,25 +48,29 @@ Snitch is my biggest project – a real‑time social platform with feeds, group
 
 - **Stack:** React, TypeScript, Node.js, MongoDB, Socket.IO, Cloudinary, TailwindCSS
 - **Key features:** Optimistic UI, push notifications, smart algorithmic feed, video/audio/image uploads
-- **Live:** [snitch-social-frontend.vercel.app]([https://snitch.app](https://snitch-social-frontend.vercel.app))
+- **Live:** [snitch-social-frontend.vercel.app](https://snitch-social-frontend.vercel.app)
 
-### [MovieHub](https://github.com/MojolaoluwaOlanusi/MovieHub) – TMDB Movie Explorer
+### [Reeli](https://github.com/MojolaoluwaOlanusi/Reeli) – Short-Form Video Platform
 
-![MovieHub](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+![Reeli](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 
-A sleek movie browsing app that consumes the TMDB API. Infinite scroll, search, and detail pages.
+A TikTok-like platform for creating and sharing short-form video content with real-time interactions.
 
-- **Stack:** React, TMDB API, TailwindCSS
+- **Stack:** React, TypeScript, Node.js, MongoDB, Socket.IO, Cloudinary, TailwindCSS
+- **Key features:** Video upload and streaming, infinite scroll feed, real-time comments, likes & shares, user profiles
+- **Live:** [reeli.vercel.app](https://reeli.vercel.app)
 
-### [PERN Todo](https://github.com/MojolaoluwaOlanusi/pern-todo-app) – Full‑Stack Task Manager
+### [Tudu](https://github.com/MojolaoluwaOlanusi/Tudu) – Collaborative Task Manager
 
-![PERN TODO](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+![Tudu](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 
-A classic but polished todo app built with the PERN stack (PostgreSQL, Express, React, Node.js). Complete with user auth and drag‑and‑drop.
+A powerful task and project management app designed for teams and individuals to stay organized and productive.
 
-- **Stack:** PostgreSQL, Express, React, Node.js, TailwindCSS
+- **Stack:** React, TypeScript, Node.js, MongoDB, TailwindCSS
+- **Key features:** Task creation and assignment, due dates, priority levels, progress tracking, collaborative boards
+- **Live:** [tudu.vercel.app](https://tudu.vercel.app)
 
-> *More projects coming soon – see the list below!*
+> *More projects coming soon – see my repositories for the complete list!*
 
 ---
 
@@ -95,6 +99,7 @@ A classic but polished todo app built with the PERN stack (PostgreSQL, Express, 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mojola1132811)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348083759076)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olanusimojola@gmail.com)
 
 <p align="center">

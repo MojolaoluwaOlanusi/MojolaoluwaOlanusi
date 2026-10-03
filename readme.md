@@ -32,7 +32,6 @@
 I’m a **16‑year‑old full‑stack developer** from Ibadan. I craft modern, user‑friendly web apps with a focus on real‑time interactions and polished UIs.  
 Besides coding, I do **graphic design** and **video editing** – which helps me bring an extra creative edge to my projects.
 
-- 🔭 I’m currently scaling **[Snitch](https://snitch-social-frontend.vercel.app)** – a feature‑packed social media PWA
 - 🌱 Always exploring **system design**, **TypeScript best practices**, and **animation libraries**
 - 🎯 Goal for 2026: launch 5 production‑ready apps and grow a community around Snitch
 
@@ -58,7 +57,7 @@ Reeli — Fast movie & TV discovery with live search, trailer previews on long-p
 
 - **Stack:** React, TypeScript, Node.js, Appwrite, TailwindCSS
 - **Key features:** Authentication, Top picks, movie details, movie trailer watch, where to watch information.
-- **Live:** [reeli.vercel.app](https://reeli-movies.vercel.app)
+- **Live:** [reeli-movies.vercel.app](https://reeli-movies.vercel.app)
 
 ### [Tudu](https://github.com/MojolaoluwaOlanusi/Tudu) – Collaborative Task Manager
 
@@ -68,7 +67,7 @@ A powerful task and project management app designed for teams and individuals to
 
 - **Stack:** React, TypeScript, Node.js, Express, Socket.io, Zustand, dnd-kit, React query, chrono-node, Zod, PostgreSQL, TailwindCSS
 - **Key features:** Task creation and assignment, due dates, priority levels, progress tracking, collaborative boards
-- **Live:** [tudu.vercel.app](https://tudu-kanban.vercel.app)
+- **Live:** [tudu-kanban.vercel.app](https://tudu-kanban.vercel.app)
 
 > *More projects coming soon – see my repositories for the complete list!*
 

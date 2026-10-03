@@ -50,15 +50,15 @@ Snitch is my biggest project – a real‑time social platform with feeds, group
 - **Key features:** Optimistic UI, push notifications, smart algorithmic feed, video/audio/image uploads
 - **Live:** [snitch-social-frontend.vercel.app](https://snitch-social-frontend.vercel.app)
 
-### [Reeli](https://github.com/MojolaoluwaOlanusi/Reeli) – Short-Form Video Platform
+### [Reeli](https://github.com/MojolaoluwaOlanusi/Reeli) – Movie discovery platform 
 
 ![Reeli](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 
-A TikTok-like platform for creating and sharing short-form video content with real-time interactions.
+Reeli — Fast movie & TV discovery with live search, trailer previews on long-press, and regional picks.
 
-- **Stack:** React, TypeScript, Node.js, MongoDB, Socket.IO, Cloudinary, TailwindCSS
-- **Key features:** Video upload and streaming, infinite scroll feed, real-time comments, likes & shares, user profiles
-- **Live:** [reeli.vercel.app](https://reeli.vercel.app)
+- **Stack:** React, TypeScript, Node.js, Appwrite, TailwindCSS
+- **Key features:** Authentication, Top picks, movie details, movie trailer watch, where to watch information.
+- **Live:** [reeli.vercel.app](https://reeli-movies.vercel.app)
 
 ### [Tudu](https://github.com/MojolaoluwaOlanusi/Tudu) – Collaborative Task Manager
 
@@ -66,9 +66,9 @@ A TikTok-like platform for creating and sharing short-form video content with re
 
 A powerful task and project management app designed for teams and individuals to stay organized and productive.
 
-- **Stack:** React, TypeScript, Node.js, MongoDB, TailwindCSS
+- **Stack:** React, TypeScript, Node.js, Express, Socket.io, Zustand, dnd-kit, React query, chrono-node, Zod, PostgreSQL, TailwindCSS
 - **Key features:** Task creation and assignment, due dates, priority levels, progress tracking, collaborative boards
-- **Live:** [tudu.vercel.app](https://tudu.vercel.app)
+- **Live:** [tudu.vercel.app](https://tudu-kanban.vercel.app)
 
 > *More projects coming soon – see my repositories for the complete list!*
 

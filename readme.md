@@ -22,6 +22,7 @@ I also bring creative skills to my projects through **graphic design** and **vid
 - 🌱 Exploring **system design patterns**, **TypeScript best practices**, **real-time WebSocket architecture**, and **performance optimization**
 - 🎯 2026 Goal: Launch 5 production-ready applications and build a thriving community around Snitch
 - 🤖 Integrating AI agents into my development workflow to increase productivity and code quality
+- 🚀 Building Tudu: an AI powered task manager with kanban boards and pomodoro
 
 ---
 

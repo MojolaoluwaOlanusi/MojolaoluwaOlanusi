@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **16‑year‑old full‑stack developer** from Ibadan, Nigeria. I build modern, production-ready web applications with a focus on real-time interactions, scalable architectures, and polished user experiences.
+I'm a **year‑old full‑stack developer** from Ibadan, Nigeria. I build modern, production-ready web applications with a focus on real-time interactions, scalable architectures, and polished user experiences.
 
 Beyond traditional development, I leverage **AI agents** to accelerate my workflow and solve complex problems efficiently. I'm proficient with leading AI tools including **Claude**, **Devin**, **DeepSeek**, and **ChatGPT**, as well as IDE-integrated agents like **Cline** and **GitHub Copilot**—enabling me to write better code, debug faster, and ship features quicker.
 
